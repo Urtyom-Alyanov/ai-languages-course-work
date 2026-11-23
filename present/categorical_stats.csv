@@ -1,0 +1,14 @@
+feature,n_unique,mode,mode_freq,mode_share_%
+gender,2,M,305,63.54
+NationalITy,14,KW,179,37.29
+PlaceofBirth,14,KuwaIT,180,37.5
+StageID,3,MiddleSchool,248,51.67
+GradeID,10,G-02,147,30.63
+SectionID,3,A,283,58.96
+Topic,12,IT,95,19.79
+Semester,2,F,245,51.04
+Relation,2,Father,283,58.96
+ParentAnsweringSurvey,2,Yes,270,56.25
+ParentschoolSatisfaction,2,Good,292,60.83
+StudentAbsenceDays,2,Under-7,289,60.21
+Class,3,M,211,43.96
